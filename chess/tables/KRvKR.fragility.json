@@ -1,0 +1,17 @@
+{
+ "material": "KRvKR",
+ "won_positions_sampled": 100000,
+ "fragile": 86003,
+ "fragile_frac": 0.86,
+ "fragile_quiet": 4003,
+ "fragile_quiet_frac": 0.04,
+ "no_winning_capture": 4120,
+ "winning_move_count_hist": {
+  "1": 86003,
+  "2": 11180,
+  "3": 2727,
+  "4": 23,
+  "5": 67
+ },
+ "inconsistent": 0
+}

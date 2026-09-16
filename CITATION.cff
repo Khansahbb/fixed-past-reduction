@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, cite the paper below."
+title: "Fixed-Past Threshold Reduction for Finite Games with Repetition Rules, with an Exact Instantiation for FIDE Chess"
+version: "1.0"
+date-released: "2026-09-16"
+authors:
+  - family-names: Jannat
+    given-names: Muaawia
+    orcid: "https://orcid.org/0009-0006-4753-3156"
+license: MIT
+repository-code: "https://github.com/Khansahbb/fixed-past-reduction"
+preferred-citation:
+  type: unpublished
+  title: "Fixed-Past Threshold Reduction for Finite Games with Repetition Rules, with an Exact Instantiation for FIDE Chess"
+  authors:
+    - family-names: Jannat
+      given-names: Muaawia
+      orcid: "https://orcid.org/0009-0006-4753-3156"
+  year: 2026
+  month: 9
+  notes: "Preprint"

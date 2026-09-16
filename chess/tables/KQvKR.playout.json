@@ -1,0 +1,10 @@
+{
+ "material": "KQvKR",
+ "sampled": 3000,
+ "D_plus_t": {
+  "150|winner|alt=None": 1635,
+  "100|winner|alt=None": 1266,
+  "100|mate|alt=None": 81,
+  "150|mate|alt=None": 18
+ }
+}

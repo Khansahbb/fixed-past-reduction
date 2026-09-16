@@ -1,0 +1,10 @@
+{
+ "material": "KQvK",
+ "won_positions_sampled": 50000,
+ "fragile": 0,
+ "fragile_frac": 0.0,
+ "winning_move_count_hist": {
+  "5": 50000
+ },
+ "inconsistent": 0
+}

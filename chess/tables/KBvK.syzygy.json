@@ -1,0 +1,11 @@
+{
+ "material": "KBvK",
+ "compared": 417228,
+ "agree": 417228,
+ "disagree": 0,
+ "confusion": {
+  "draw/syz0": 417228
+ },
+ "deadline_plus_dtz_hist": {},
+ "examples": []
+}

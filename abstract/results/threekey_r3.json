@@ -1,0 +1,17 @@
+{
+ "rules": {
+  "r": 3,
+  "a": 5,
+  "C": 4,
+  "H": 6
+ },
+ "configs_per_key": 67,
+ "arenas": 300763,
+ "past_cases": 37595375,
+ "root_queries": 754152000,
+ "mismatch": 0,
+ "wins": 174859920,
+ "scenario_queries": 30720,
+ "max_rounds": 3,
+ "seconds": 6433
+}

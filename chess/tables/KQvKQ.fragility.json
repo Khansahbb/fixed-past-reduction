@@ -1,0 +1,17 @@
+{
+ "material": "KQvKQ",
+ "won_positions_sampled": 100000,
+ "fragile": 88606,
+ "fragile_frac": 0.8861,
+ "fragile_quiet": 3703,
+ "fragile_quiet_frac": 0.037,
+ "no_winning_capture": 5132,
+ "winning_move_count_hist": {
+  "1": 88606,
+  "2": 10063,
+  "3": 710,
+  "4": 369,
+  "5": 252
+ },
+ "inconsistent": 0
+}

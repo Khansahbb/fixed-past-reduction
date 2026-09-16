@@ -1,0 +1,14 @@
+{
+ "material": "KBvKQ",
+ "won_positions_sampled": 100000,
+ "fragile": 1218,
+ "fragile_frac": 0.0122,
+ "winning_move_count_hist": {
+  "1": 1218,
+  "2": 982,
+  "3": 743,
+  "4": 2107,
+  "5": 94950
+ },
+ "inconsistent": 0
+}

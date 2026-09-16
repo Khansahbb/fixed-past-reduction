@@ -1,0 +1,7 @@
+*.dl
+*.err
+__pycache__/
+*.aux
+*.log
+*.out
+*.synctex.gz

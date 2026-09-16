@@ -1,0 +1,9 @@
+{
+ "material": "KRBvK",
+ "sampled": 3000,
+ "D_plus_t": {
+  "100|mate|alt=None": 2455,
+  "100|defender|alt=False": 521,
+  "150|mate|alt=None": 24
+ }
+}

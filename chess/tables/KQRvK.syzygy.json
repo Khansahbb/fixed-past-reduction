@@ -1,0 +1,17 @@
+{
+ "material": "KQRvK",
+ "compared": 298583,
+ "agree": 298583,
+ "disagree": 0,
+ "confusion": {
+  "win/syz2": 100617,
+  "loss/syz-2": 195987,
+  "draw/syz0": 1979
+ },
+ "deadline_plus_dtz_hist": {
+  "99": 53130,
+  "100": 34545,
+  "150": 12942
+ },
+ "examples": []
+}

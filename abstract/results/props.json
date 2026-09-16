@@ -1,0 +1,33 @@
+{
+ "bucket_twokey_2323": {
+  "vectors": 80802,
+  "mismatch": 0
+ },
+ "bucket_twokey_3546": {
+  "vectors": 224450,
+  "mismatch": 0
+ },
+ "bucket_random": {
+  "vectors": 40000,
+  "mismatch": 0
+ },
+ "certificate": {
+  "true_vectors": 40000,
+  "true_pass": 40000,
+  "mutations": 2486548,
+  "mutations_accepted": 0
+ },
+ "lift": {
+  "vectors": 40000,
+  "mismatch": 0
+ },
+ "path_budget": {
+  "queries": 17884,
+  "mismatch": 0
+ },
+ "arrival": {
+  "queries": 258455,
+  "mismatch": 0
+ },
+ "seconds": 11.9
+}
