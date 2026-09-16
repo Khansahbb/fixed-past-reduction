@@ -1,0 +1,51 @@
+{
+ "stats": {
+  "r2a3C2H3": {
+   "tag": "r2a3C2H3",
+   "rules": {
+    "r": 2,
+    "a": 3,
+    "C": 2,
+    "H": 3
+   },
+   "arenas": 4489,
+   "past_cases": 40401,
+   "root_queries": 323208,
+   "mismatch_explicit_vs_deadline": 0,
+   "mismatch_explicit_vs_clocklayer": 0,
+   "corollary7_alternating_cases": 60552,
+   "corollary7_mismatch": 0,
+   "corollary7_nonalternating_mismatch": 2048,
+   "max_rounds": 2,
+   "seconds": 3.6
+  },
+  "r3a5C4H6": {
+   "tag": "r3a5C4H6",
+   "rules": {
+    "r": 3,
+    "a": 5,
+    "C": 4,
+    "H": 6
+   },
+   "arenas": 4489,
+   "past_cases": 112225,
+   "root_queries": 1571150,
+   "mismatch_explicit_vs_deadline": 0,
+   "mismatch_explicit_vs_clocklayer": 0,
+   "corollary7_alternating_cases": 294350,
+   "corollary7_mismatch": 0,
+   "corollary7_nonalternating_mismatch": 10240,
+   "max_rounds": 2,
+   "seconds": 21.0
+  },
+  "random": {
+   "tag": "random",
+   "arenas": 6000,
+   "root_queries": 295265,
+   "mismatch": 0,
+   "max_rounds": 4,
+   "max_keys": 9
+  }
+ },
+ "mismatches": []
+}

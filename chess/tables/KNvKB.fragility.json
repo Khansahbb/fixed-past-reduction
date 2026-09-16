@@ -1,0 +1,10 @@
+{
+ "material": "KNvKB",
+ "won_positions_sampled": 56,
+ "fragile": 56,
+ "fragile_frac": 1.0,
+ "winning_move_count_hist": {
+  "1": 56
+ },
+ "inconsistent": 0
+}

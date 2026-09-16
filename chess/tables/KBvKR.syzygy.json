@@ -1,0 +1,16 @@
+{
+ "material": "KBvKR",
+ "compared": 300000,
+ "agree": 300000,
+ "disagree": 0,
+ "confusion": {
+  "draw/syz0": 244963,
+  "win/syz2": 49929,
+  "loss/syz-2": 5108
+ },
+ "deadline_plus_dtz_hist": {
+  "99": 10188,
+  "150": 39741
+ },
+ "examples": []
+}

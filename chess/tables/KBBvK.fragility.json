@@ -1,0 +1,17 @@
+{
+ "material": "KBBvK",
+ "won_positions_sampled": 100000,
+ "fragile": 59,
+ "fragile_frac": 0.0006,
+ "fragile_quiet": 49,
+ "fragile_quiet_frac": 0.0005,
+ "no_winning_capture": 99770,
+ "winning_move_count_hist": {
+  "1": 59,
+  "2": 63,
+  "3": 114,
+  "4": 197,
+  "5": 99567
+ },
+ "inconsistent": 0
+}

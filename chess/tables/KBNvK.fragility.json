@@ -1,0 +1,17 @@
+{
+ "material": "KBNvK",
+ "won_positions_sampled": 100000,
+ "fragile": 473,
+ "fragile_frac": 0.0047,
+ "fragile_quiet": 473,
+ "fragile_quiet_frac": 0.0047,
+ "no_winning_capture": 99990,
+ "winning_move_count_hist": {
+  "1": 473,
+  "2": 1119,
+  "3": 1586,
+  "4": 1783,
+  "5": 95039
+ },
+ "inconsistent": 0
+}

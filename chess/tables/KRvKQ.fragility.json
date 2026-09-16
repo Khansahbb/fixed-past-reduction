@@ -1,0 +1,14 @@
+{
+ "material": "KRvKQ",
+ "won_positions_sampled": 100000,
+ "fragile": 26382,
+ "fragile_frac": 0.2638,
+ "winning_move_count_hist": {
+  "1": 26382,
+  "2": 3557,
+  "3": 2885,
+  "4": 2741,
+  "5": 64435
+ },
+ "inconsistent": 0
+}

@@ -1,0 +1,16 @@
+{
+ "material": "KRNvK",
+ "won_positions_sampled": 100000,
+ "fragile": 0,
+ "fragile_frac": 0.0,
+ "fragile_quiet": 0,
+ "fragile_quiet_frac": 0.0,
+ "no_winning_capture": 99098,
+ "winning_move_count_hist": {
+  "2": 3,
+  "3": 3,
+  "4": 9,
+  "5": 99985
+ },
+ "inconsistent": 0
+}

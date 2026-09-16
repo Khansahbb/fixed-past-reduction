@@ -1,0 +1,14 @@
+{
+ "material": "KNNvK",
+ "won_positions_sampled": 1232,
+ "fragile": 1200,
+ "fragile_frac": 0.974,
+ "fragile_quiet": 0,
+ "fragile_quiet_frac": 0.0,
+ "no_winning_capture": 0,
+ "winning_move_count_hist": {
+  "1": 1200,
+  "2": 32
+ },
+ "inconsistent": 0
+}
